@@ -1,0 +1,309 @@
+Employee_ID,Name,Gender,Pool_Phone,Personal_Phone_Number,Office_Email,Designation,Job_Role,Employment_Type,DOJ,Contract_End_Date,SSC_Reg_Num
+101527,Jebunnesa Jahan,Female,NA,NA,NA,Executive,Trainer,Project Base Fixed,18-Nov-19,01-May-20,NA
+32866,Sumaiya Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32867,Rahena Pervin,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32874,Fatama Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32876,Meftahull Jannat Trishi,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32877,Sarmin Akter Juli ,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32882,Tamanna Tabassum,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32883,Anonna Akter Momo,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32887,Tania Akter Nitu,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32892,Farjana Bobby,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32893,Sadia Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+150029,Famiya Tabassum,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150030,Mohammad Abu Raihan,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150031,Mohammad Shahjada,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150032,Sarwar Hossain Chowdhury,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150033,Syeda Nahar Borna,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150034,Sanjina Akter Muna,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150035,Sumaiya Samiha,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150036,Tanbina Islam Tithi,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150037,Jishan Arif Chowdhury,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,06-Sep-20,18-Feb-21,NA
+150041,Dil Afroza Hossain,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,24-Sep-20,08-Mar-21,NA
+150042,Aqib Ahmed,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,24-Sep-20,08-Mar-21,NA
+150043,Saima Ahmed,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,24-Sep-20,08-Mar-21,NA
+32989,Miskatul Jannet Srabony,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+32994,Rozina Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+33002,Majeda Akter Dolon,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+150039,Md. Habibur Rahman,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,01-Sep-20,13-Feb-21,NA
+150040,Md. Fozlay Rabbi Khan,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,01-Sep-20,13-Feb-21,NA
+12207,Arman Rahman,Male,NA,NA,NA,Intern,Intern,Apprentice Fixed,27-Sep-20,11-Mar-21,NA
+33004,Nahida Jaman,Female,NA,NA,NA,Assistant Manager,Assistant Manager,Project Base Fixed,15-Oct-20,29-Mar-21,NA
+24213,MD Aktaroozzaman Nishad,Male,NA,NA,NA,CSO,Agent,Apprentice Fixed,03-Nov-20,17-Apr-21,NA
+24214,Shakib Shahriar,Male,NA,NA,NA,CSO,Agent,Apprentice Fixed,03-Nov-20,17-Apr-21,NA
+24215,MD. Tazwar Alam,Male,NA,NA,NA,CSO,Agent,Apprentice Fixed,03-Nov-20,17-Apr-21,NA
+33005,Rubayna Rashid Ripa,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33006,Jannatul Ferdous Sumaia,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33007,Sumaiya Akter ,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33008,Humaira Akter ,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33009,Tamanna Akther Akhi,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33011,Sahera Akter Rumu,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33012,Maksuda khanam,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33014,Sharifa Khatun,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33016,Sharmin,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33017,Any Buddah,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+154101,MD.JAHANGIR HUSSAIN,Male,NA,NA,NA,Executive,Team Leader,Project Base Fixed,01-Nov-20,15-Apr-21,NA
+154102,MOHIM CHOWDHURY MIMO,Male,NA,NA,NA,Executive,Team Leader,Project Base Fixed,01-Nov-20,15-Apr-21,NA
+150047,Anisha Parvish Tisha,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,18-Oct-20,01-Apr-21,NA
+150048,Taslim Mahamud,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,18-Oct-20,01-Apr-21,NA
+150049,Rubyat Islam,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,18-Oct-20,01-Apr-21,NA
+150050,Tanvir Ahmed,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,18-Oct-20,01-Apr-21,NA
+150051,Farjana Akter,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,18-Oct-20,01-Apr-21,NA
+32872,Soyada Rabaya Khatun,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32873,Soyada Rokeya khatun,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32894,Ratri Hassan Elma,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32895,Sanjida Akter Boishakhi,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32988,Tamzeda Mostofa,Male,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+32992,Ayesha Siddiqua,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+32999,Sraboni Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+32868,Abida Akter Shila,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32869,Mahmuda Begum,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32879,Mahmuda Begum Swarna,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+32990,Saleha Akter Tusa,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+150044,Rubaiya Rashmi,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,28-Sep-20,12-Mar-21,NA
+150046,Fahria Sharmin Khan,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,28-Sep-20,12-Mar-21,NA
+150038,Nasrin Parvin Shohana,Female,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,01-Sep-20,13-Feb-21,NA
+32870,Inny Zaman,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,27-Aug-20,08-Feb-21,NA
+32885,Nishat Anjum Bibriti,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,14-Sep-20,26-Feb-21,NA
+33003,Afroza Naznin,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,09-Oct-20,23-Mar-21,NA
+33010,Razia Chowdhury,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33015,Pramiti Roy,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+33019,Tahorima akter Vabna,Female,NA,NA,NA,CSO,Agent,Apprentice Fixed,01-Nov-20,15-Apr-21,NA
+150045,Fardin Ahrar Latif,Male,NA,NA,NA,Customer Service Executive,Customer Touchpoint,Apprentice Fixed,28-Sep-20,12-Mar-21,NA
+80189,Abdullah Al Mamun  ,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Apr-20,30-Sep-20,NA
+131037,Asif Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Mar-20,03-Sep-20,NA
+12175,Afroza Akther Keya,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,28-Aug-20,09-Feb-21,NA
+32898,Md. Abdullah Al Salafi,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32900,Maruful Alam Shohag,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32901,Md. Ashikul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32904,Md. Shihab Somon,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32905,Md. Razaul Dewan Rana,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32907,Md. Monir Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32908,Md. Rayhan Bapari,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32912,Md. Shadin Islam Riyad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32913,Kazi Shadman Sayed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32914,Sanjida Islam Putul,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32915,Sayada Farzana Haque,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32916,Tahmina Akter Rima,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32918,Mabia Sultana Eity  ,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32919,Tanjila Rahman,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32920,Tanzin Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32921,Shahanaj Akter ,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32922,Sayeda Tasneem,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32924,Sumaiya Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32925,Md.Shihab Uddin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+24124,Md.Zahid Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24125,Protim Roy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24126,MD. Shafiqul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24127,Md. Santo Howlader,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24128,Md. Ahashanur Rahman Mahim,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24130,Sumon Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24132,Md. Rasel Mia,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24134,shafiqul Islam Shetu,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24135,S. M. Sabbir Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24137,Abdullah Al noman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24138,Md. Ashanul Haque,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24139,Md. Robeul Isalm,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24141,Md. Rifat Hossen,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24142,Shahadat Hosen,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24143,Mamun Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24144,Md. Hasib Khan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24145,Nazir Hossain Fahim,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+24147,Md. Rifat Khandakar,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,11-Oct-20,25-Mar-21,NA
+12177,Fatema Tuz Zohra,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12180,Anika Tahsin Oni,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12181,Habiba Zahan,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12182,Fariea Islam,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12183,Polin Khan,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12184,Backy Billah,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12185,Shahrukh Alam Chowdhury,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12186,Md. Imon Khan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12188,Mutaseem Rohan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12190,Parves Mosharof,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12192,Fahim Bin Feroz,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12193,Md. Asifur Rahman Ridoy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12194,Md. Shiam Uddin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12195,Ahmed Rabbi Shanto,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12196,Sultan Mahmud,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12197,Juman Nokrek,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12198,Sadaf Mahfuz,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12199,Jahangir Alam Jony,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12201,Rabiul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12203,Zubair Rafsan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12204,Al-Mohammad Shakib Billah,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12205,Rijuan Rayhan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+12206,Md. Mahadi Hassan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,10-Oct-20,24-Mar-21,NA
+154001,Nasrin Parvin Smrity,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154002,Tania Tawhida Azad,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154003,Songita Akter Sraboni,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154004,Jahanara Akter Shilpi,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154005,Kagi Taslima,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154006,Sumaia Khanom,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+154007,Most Rimi Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Oct-20,26-Mar-21,NA
+24152,Saiful Islam Bijoy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24160,Sadik,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24153,Saiful Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24149,Md. Moshiur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24159,Shuvojit Kumar Mondal,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24157,Pranto Das Ove,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24158,Samit Mondal,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24151,Nur Nahar Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24174,Lamiya Khandoker,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24150,Sazia Alam,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24175,Afrin Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24172,Tanzina Yasmin Shanta,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24167,Jesmin Akther,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24173,Eva Akter Joya,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24162,Mahin Islam Mahi,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24170,Tania Akter Sumaiya,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24148,Sonia Islam,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24169,Halima,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24165,Tonney Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24171,Sinthia Armin,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24163,Sharmin Akter Kona,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24156,Md. Sagor Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24155,Shaahriar Rashid Chowdhury,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24168,Azizun Nahar,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24161,Sharmin Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24164,Md. Imran Hasan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24154,Md Jakir Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+24176,Md. Fojly Rabbi,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24178,Md.Talha Jubare,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24179,Abdullah Al Rabby,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24180,Md Nibir Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24181,Md.Faruk Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24182,Nazmul hasan nazim,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24183,Atik shahriar,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24184,Salauddin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24185,Md Sajjadul Islam Sajjad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24186,Moshiuzzaman Ovey,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24187,Adib ull zawad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24188,Samim Hasan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24189,Md Abdur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24190,Toslim islam Alif,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24191,Shahadat Hasan Apy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24192,Shipran Jannat Siam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24193,Hasibur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24195,Shakil mahmud,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24196,Raqibul islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24198,Mahbub Rahman Nion,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24199,Abeedur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24200,Mosharrof Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24201,Sakib Shariar Udoy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24202,Md. Helal Uddin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24203,Shanto Hassan Dourjoy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24204,Tanzil Sazzad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+24205,Md. Rabbi Hassan Masud,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+101801,Fahim Ibn Awal,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101802,Md. Shariful Hassan Bhuiyan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101804,Jannati Tazrimin,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101805,Israt Jahan Romkey,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101806,Shaifur Rahman Faysal,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101807,Samiha Rabab Mimu,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101808,Anna Annie Gomes,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101810,Md. Ali Akber (Shubho),Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101811,Hasib Rahman Himu,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101812,Hasibur Rahman Tushar,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+101813,Md. Arafat Ali,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+12208,Md Anwar Hosen,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+12209,Khaled Syfullah,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141290,Saifuddin Sagor,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141291,Jahid Mahamud,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141292,Rony Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141293,Shamim Khan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141294,Iram Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141295,Alamin Siddik,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,21-Oct-20,04-Apr-21,NA
+141296,Faizan Jubaer,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141278,Jannatul Ferdous,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141279,Dewan Neloy,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141280,Asif Ud Doula Shawon,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141281,Md. Robin Sarder,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141282,Hasib Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141283,Md. Saminul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141284,Sharafat Islam Sayem,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141285,Md. Talha Mustafa,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141286,Mousumi Akter,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141287,Ishatul Goni Ishat,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141288,Tanvir Ahmed Jewel,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+141289,Nadia Mahjabin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,22-Oct-20,05-Apr-21,NA
+60675,Md. Jobayer Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,30-Oct-20,13-Apr-21,NA
+12211,Md. Abdul Alim,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,01-Nov-20,15-Apr-21,NA
+32928,Rafiulla Gazi,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32929,Ruman Hawlader,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32930,Md Yusub Bin Ahsan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32931,Md Ishaq Ahmad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32933,Md Tanvir Mahmud Rijon,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32934,Md Tabeul Mursalin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32935,Ziad Ul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32936,Hasib Shikdar,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32938,Md Rubel,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32939,Md Saiful Islam Rony,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32940,Mir Akib Sorower,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32941,Md Sajib Khan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32942,Rasel Chowdhury Rabbi,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32943,Shaheduzzaman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32944,Md Yasin Arafat,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32945,Al Amin Azad,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32946,Sahadat Hossain Mishu,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32947,M R Tanvir,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32948,Rasel Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32951,Abdullah Al Mamun,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32953,Naief Owasit Mihal,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32954,Abir Been Gesan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32955,Mehadi Hasan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32956,Marib Zaman Him,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32957,S M Safin Saiful,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32958,Md Salim,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32959,Md Mahadi Hasan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32960,Md Ebadullah Ananto,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32962,Ashraful Islam/CSA,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32965,Arman Hossan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32968,Md Zahid Hasan/CSA,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32970,Mostaque Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32971,Md Tasnim Khan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32972,MD Jubayar Hossain Emon,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32973,Jahidul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32974,Masud Rana Sohel,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32975,Md Jabilul Islam Himel,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32976,FM Bayezid,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32977,Mizanur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32979,Md Hasibur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32980,Mohiuddin Khan Momin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32981,Khandaker Ataul Muyeed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32982,Md Saiful Islam Tusher,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32983,Md Aziz Reza Dipu,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32984,Md Nayeem,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32985,Ahsanul Islam Sajib,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32987,Syed Nur Ul Anawar,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+154103,JULIUS CHARLES DEVADAWSON,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154104,Nafiz Noel,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154105,Arafath Uz Zaman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154106,Chandan Ghosh,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154107,Abul Kalam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154108,Golam Nazmus Sakib,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154109,Shuvo Ahmed,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154110,Jahid Hasan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154111,Emdad Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154112,Raju Rim Dey,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+154113,Azman Bin Mamun,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+155101,Benojir Dewan,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,09-Nov-20,23-Apr-21,NA
+155102,Lima Gomez,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,09-Nov-20,23-Apr-21,NA
+155103,Sheikh Jamema Afrin Helen,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,09-Nov-20,23-Apr-21,NA
+155104,Laboni Adhikary,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,09-Nov-20,23-Apr-21,NA
+12262,Mahbubul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,12-Nov-20,26-Apr-21,NA
+101814,Md. Owhed Uzzaman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+32902,Md. Tariqul Islam Opu,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+32932,Md Ali Hasan Raju,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+32937,Md Abdullah,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,19-Oct-20,02-Apr-21,NA
+101816,Md. Anisur Rahman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,18-Oct-20,01-Apr-21,NA
+32910,Md. Najmussakib,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,20-Sep-20,04-Mar-21,NA
+70264,Md. Nahid Hassan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,04-Nov-20,18-Apr-21,NA
+70265,Md Abu Daud,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70266,Md. Shadat Hossain Salman,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70267,Md. Abdul Mannan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70268,Monirul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70269,Azizul Islam,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70270,Md. Imran Hossain,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70271,Shaima Nowaz Prova,Female,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70273,Mridula Bhuiyan,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA
+70275,Md. Al Amin,Male,NA,NA,NA,CSO,Agent,Apprentice Hourly,13-Nov-20,27-Apr-21,NA

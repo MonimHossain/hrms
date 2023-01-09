@@ -1,0 +1,246 @@
+
+.table {
+	color: #333;
+}
+.table.table-white {
+	background-color: #fff;
+}
+.table thead th {
+	font-weight: 500;
+    letter-spacing: 0.05em;
+}
+.table-striped > tbody > tr:nth-of-type(2n+1) {
+	background-color: #f6f6f6;
+}
+table.table td .avatar {
+	margin: 0 5px 0 0;
+}
+table.table td h2 {
+	display: inline-block;
+	font-size: inherit;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	vertical-align: middle;
+}
+table.table td h2.table-avatar {
+    align-items: center;
+    display: inline-flex;
+    font-size: inherit;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+	white-space: nowrap;
+}
+table.table td h2.table-avatar.blue-link a {
+	color: #007bff;
+}
+table.table td h2 a {
+	color: #333;
+}
+table.table td h2 a:hover {
+	color: #ff9b44;
+}
+table.table td h2 span {
+	color: #888;
+	display: block;
+	font-size: 12px;
+	margin-top: 3px;
+}
+table.dataTable {
+	margin-bottom: 15px !important;
+	margin-top: 15px !important;
+}
+.table-nowrap td,
+.table-nowrap th {
+	white-space: nowrap
+}
+.table-hover tbody tr:hover {
+    background-color: #f7f7f7;
+    color: #212529;
+}
+table.dataTable thead > tr > th.sorting_asc,
+table.dataTable thead > tr > th.sorting_desc,
+table.dataTable thead > tr > th.sorting,
+table.dataTable thead > tr > td.sorting_asc,
+table.dataTable thead > tr > td.sorting_desc,
+table.dataTable thead > tr > td.sorting {
+	padding-right: 30px !important;
+}
+
+/*-----------------
+	33. Attendance
+-----------------------*/
+
+.first-off {
+    white-space: pre-wrap;
+}
+.stats-info {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.stats-info h6 {
+    color: #1f1f1f;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.stats-info h4 {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.stats-info h4 span {
+	color: #727272;
+	font-size: 12px;
+}
+.punch-det {
+    background-color: #f9f9f9;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+}
+.punch-det h6 {
+    line-height: 20px;
+    margin-bottom: 0;
+}
+.punch-det p {
+    color: #727272;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.punch-info {
+	margin-bottom: 20px;
+}
+.punch-hours {
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 5px solid #e3e3e3;
+    border-radius: 50%;
+    display: flex;
+    font-size: 18px;
+    height: 120px;
+    justify-content: center;
+    margin: 0 auto;
+    width: 120px;
+}
+.punch-btn-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.punch-btn {
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 100%;
+    padding: 8px 40px;
+}
+.punch-status .stats-box {
+	margin-bottom: 0;
+}
+.stats-list {
+	/* height: 331px; */
+	overflow-y: auto;
+}
+.att-statistics .stats-info {
+	margin-bottom: 5px;
+}
+.att-statistics .progress {
+	height: 4px;
+}
+.statistics .row {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.statistics .row > div {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.stats-box {
+    background-color: #f9f9f9;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.stats-box p {
+	margin: 0;
+	font-size: 12px;
+}
+.stats-box > h6 {
+    margin-bottom: 0;
+}
+.stats-info:last-child .progress {
+	margin-bottom: 0;
+}
+.stats-info p {
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.recent-activity .res-activity-list {
+    height: 328px;
+    list-style-type: none;
+    margin-bottom: 0;
+    overflow-y: auto;
+    padding-left: 30px;
+    position: relative;
+}
+.recent-activity .res-activity-list li {
+    margin-bottom: 15px;
+    position: relative;
+}
+.recent-activity .res-activity-list li:last-child {
+    margin-bottom: 0;
+}
+.recent-activity .res-activity-list li:before {
+	width: 10px;
+	height: 10px;
+	left: -30px;
+	top: 0px;
+	border: 2px solid #ff9b44;
+	margin-right: 15px;
+	z-index: 2;
+	background: #fff;
+}
+.recent-activity .res-activity-list li:before {
+	content: "";
+	position: absolute;
+	border-radius: 100%;
+}
+.recent-activity .res-activity-list:after {
+	content: "";
+	border: 1px solid #e5e5e5;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 4px;
+}
+.recent-activity .res-activity-time {
+    color: #bbb;
+    font-size: 12px;
+}
+.recent-activity h6 {
+    line-height: 14px;
+    margin-bottom: 0;
+}
+.recent-activity p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.half-day {
+	width: 15px;
+}
+
+
+/* font size small*/
+ .text-small {
+     font-size : 10px
+ }
+
